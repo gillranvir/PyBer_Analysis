@@ -35,5 +35,5 @@ The intent of the new analysis is to study several month's worth of ride-sharing
 ![alt_text](https://github.com/gillranvir/PyBer_Analysis/blob/main/analysis/Challenge_fare_summary.png)
 #
 ## Summary
-# The data clearly shows that urban ride-sharing generates almost twice the revenue than suburban and nearly four times the revenue when compared with the rural setting in any given month. If the cost-price ratios are similar in all settings, PyBer can consider reallocation of assets from rural to urban regions.
+The data clearly shows that urban ride-sharing generates almost twice the revenue than suburban and nearly four times the revenue when compared with the rural setting in any given month. If the cost-price ratios are similar in all settings, PyBer can consider reallocation of assets from rural to urban regions.
 
